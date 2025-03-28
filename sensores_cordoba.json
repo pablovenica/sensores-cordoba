@@ -1,0 +1,364 @@
+{
+  "sensores": [
+    {
+      "id_sensor": 1,
+      "barrio": "Nueva Córdoba",
+      "ubicacion": {
+        "latitud": -31.4273,
+        "longitud": -64.1831
+      },
+      "mediciones": {
+        "temperatura": 24.2,
+        "humedad": 75,
+        "presion_atmosferica": 1010.9,
+        "velocidad_viento": 6.1,
+        "direccion_viento": 316,
+        "precipitacion": 2.3,
+        "humedad_suelo": 56
+      },
+      "fecha_hora_lectura": "2025-03-28T08:30:00"
+    },
+    {
+      "id_sensor": 2,
+      "barrio": "Güemes",
+      "ubicacion": {
+        "latitud": -31.4278,
+        "longitud": -64.1791
+      },
+      "mediciones": {
+        "temperatura": 18.7,
+        "humedad": 63,
+        "presion_atmosferica": 1015.8,
+        "velocidad_viento": 3.6,
+        "direccion_viento": 37,
+        "precipitacion": 10.9,
+        "humedad_suelo": 41
+      },
+      "fecha_hora_lectura": "2025-03-28T08:30:00"
+    },
+    {
+      "id_sensor": 3,
+      "barrio": "Alberdi",
+      "ubicacion": {
+        "latitud": -31.4169,
+        "longitud": -64.1784
+      },
+      "mediciones": {
+        "temperatura": 24.1,
+        "humedad": 80,
+        "presion_atmosferica": 1011.6,
+        "velocidad_viento": 1.8,
+        "direccion_viento": 208,
+        "precipitacion": 3.6,
+        "humedad_suelo": 43
+      },
+      "fecha_hora_lectura": "2025-03-28T08:30:00"
+    },
+    {
+      "id_sensor": 4,
+      "barrio": "General Paz",
+      "ubicacion": {
+        "latitud": -31.4146,
+        "longitud": -64.1651
+      },
+      "mediciones": {
+        "temperatura": 25.6,
+        "humedad": 81,
+        "presion_atmosferica": 1011.6,
+        "velocidad_viento": 2.5,
+        "direccion_viento": 263,
+        "precipitacion": 6.1,
+        "humedad_suelo": 51
+      },
+      "fecha_hora_lectura": "2025-03-28T08:30:00"
+    },
+    {
+      "id_sensor": 5,
+      "barrio": "Cofico",
+      "ubicacion": {
+        "latitud": -31.4039,
+        "longitud": -64.1785
+      },
+      "mediciones": {
+        "temperatura": 25.1,
+        "humedad": 67,
+        "presion_atmosferica": 1011.1,
+        "velocidad_viento": 4.4,
+        "direccion_viento": 325,
+        "precipitacion": 8.0,
+        "humedad_suelo": 38
+      },
+      "fecha_hora_lectura": "2025-03-28T08:30:00"
+    },
+    {
+      "id_sensor": 6,
+      "barrio": "Jardín",
+      "ubicacion": {
+        "latitud": -31.4606,
+        "longitud": -64.1889
+      },
+      "mediciones": {
+        "temperatura": 25.5,
+        "humedad": 59,
+        "presion_atmosferica": 1011.8,
+        "velocidad_viento": 6.2,
+        "direccion_viento": 160,
+        "precipitacion": 9.7,
+        "humedad_suelo": 59
+      },
+      "fecha_hora_lectura": "2025-03-28T08:30:00"
+    },
+    {
+      "id_sensor": 7,
+      "barrio": "Alta Córdoba",
+      "ubicacion": {
+        "latitud": -31.3892,
+        "longitud": -64.1797
+      },
+      "mediciones": {
+        "temperatura": 22.3,
+        "humedad": 51,
+        "presion_atmosferica": 1014.5,
+        "velocidad_viento": 3.6,
+        "direccion_viento": 245,
+        "precipitacion": 12.1,
+        "humedad_suelo": 43
+      },
+      "fecha_hora_lectura": "2025-03-28T08:30:00"
+    },
+    {
+      "id_sensor": 8,
+      "barrio": "Centro",
+      "ubicacion": {
+        "latitud": -31.4175,
+        "longitud": -64.1831
+      },
+      "mediciones": {
+        "temperatura": 20.6,
+        "humedad": 72,
+        "presion_atmosferica": 1012.1,
+        "velocidad_viento": 3.6,
+        "direccion_viento": 313,
+        "precipitacion": 3.5,
+        "humedad_suelo": 66
+      },
+      "fecha_hora_lectura": "2025-03-28T08:30:00"
+    },
+    {
+      "id_sensor": 9,
+      "barrio": "Pueyrredón",
+      "ubicacion": {
+        "latitud": -31.4201,
+        "longitud": -64.1637
+      },
+      "mediciones": {
+        "temperatura": 19.8,
+        "humedad": 60,
+        "presion_atmosferica": 1010.9,
+        "velocidad_viento": 6.3,
+        "direccion_viento": 5,
+        "precipitacion": 1.4,
+        "humedad_suelo": 47
+      },
+      "fecha_hora_lectura": "2025-03-28T08:30:00"
+    },
+    {
+      "id_sensor": 10,
+      "barrio": "San Vicente",
+      "ubicacion": {
+        "latitud": -31.4267,
+        "longitud": -64.1581
+      },
+      "mediciones": {
+        "temperatura": 20.2,
+        "humedad": 51,
+        "presion_atmosferica": 1015.2,
+        "velocidad_viento": 2.4,
+        "direccion_viento": 142,
+        "precipitacion": 0.7,
+        "humedad_suelo": 53
+      },
+      "fecha_hora_lectura": "2025-03-28T08:30:00"
+    },
+    {
+      "id_sensor": 11,
+      "barrio": "Villa El Libertador",
+      "ubicacion": {
+        "latitud": -31.4722,
+        "longitud": -64.2015
+      },
+      "mediciones": {
+        "temperatura": 23.9,
+        "humedad": 73,
+        "presion_atmosferica": 1011.9,
+        "velocidad_viento": 6.0,
+        "direccion_viento": 38,
+        "precipitacion": 0.0,
+        "humedad_suelo": 60
+      },
+      "fecha_hora_lectura": "2025-03-28T08:30:00"
+    },
+    {
+      "id_sensor": 12,
+      "barrio": "Urca",
+      "ubicacion": {
+        "latitud": -31.3683,
+        "longitud": -64.2296
+      },
+      "mediciones": {
+        "temperatura": 22.9,
+        "humedad": 52,
+        "presion_atmosferica": 1012.0,
+        "velocidad_viento": 5.7,
+        "direccion_viento": 293,
+        "precipitacion": 4.5,
+        "humedad_suelo": 67
+      },
+      "fecha_hora_lectura": "2025-03-28T08:30:00"
+    },
+    {
+      "id_sensor": 13,
+      "barrio": "Argüello",
+      "ubicacion": {
+        "latitud": -31.3453,
+        "longitud": -64.2502
+      },
+      "mediciones": {
+        "temperatura": 25.8,
+        "humedad": 65,
+        "presion_atmosferica": 1011.3,
+        "velocidad_viento": 2.5,
+        "direccion_viento": 52,
+        "precipitacion": 2.7,
+        "humedad_suelo": 68
+      },
+      "fecha_hora_lectura": "2025-03-28T08:30:00"
+    },
+    {
+      "id_sensor": 14,
+      "barrio": "Villa Belgrano",
+      "ubicacion": {
+        "latitud": -31.3585,
+        "longitud": -64.2484
+      },
+      "mediciones": {
+        "temperatura": 25.7,
+        "humedad": 78,
+        "presion_atmosferica": 1014.0,
+        "velocidad_viento": 3.4,
+        "direccion_viento": 137,
+        "precipitacion": 8.8,
+        "humedad_suelo": 57
+      },
+      "fecha_hora_lectura": "2025-03-28T08:30:00"
+    },
+    {
+      "id_sensor": 15,
+      "barrio": "San Martín",
+      "ubicacion": {
+        "latitud": -31.4078,
+        "longitud": -64.1645
+      },
+      "mediciones": {
+        "temperatura": 18.2,
+        "humedad": 62,
+        "presion_atmosferica": 1013.0,
+        "velocidad_viento": 5.0,
+        "direccion_viento": 243,
+        "precipitacion": 6.9,
+        "humedad_suelo": 55
+      },
+      "fecha_hora_lectura": "2025-03-28T08:30:00"
+    },
+    {
+      "id_sensor": 16,
+      "barrio": "Rosedal",
+      "ubicacion": {
+        "latitud": -31.4478,
+        "longitud": -64.2244
+      },
+      "mediciones": {
+        "temperatura": 24.3,
+        "humedad": 70,
+        "presion_atmosferica": 1014.4,
+        "velocidad_viento": 5.0,
+        "direccion_viento": 132,
+        "precipitacion": 4.4,
+        "humedad_suelo": 41
+      },
+      "fecha_hora_lectura": "2025-03-28T08:30:00"
+    },
+    {
+      "id_sensor": 17,
+      "barrio": "Cerro de las Rosas",
+      "ubicacion": {
+        "latitud": -31.3755,
+        "longitud": -64.2398
+      },
+      "mediciones": {
+        "temperatura": 21.8,
+        "humedad": 52,
+        "presion_atmosferica": 1015.6,
+        "velocidad_viento": 2.4,
+        "direccion_viento": 272,
+        "precipitacion": 9.5,
+        "humedad_suelo": 50
+      },
+      "fecha_hora_lectura": "2025-03-28T08:30:00"
+    },
+    {
+      "id_sensor": 18,
+      "barrio": "Las Palmas",
+      "ubicacion": {
+        "latitud": -31.4371,
+        "longitud": -64.2104
+      },
+      "mediciones": {
+        "temperatura": 23.7,
+        "humedad": 70,
+        "presion_atmosferica": 1011.3,
+        "velocidad_viento": 5.7,
+        "direccion_viento": 69,
+        "precipitacion": 1.0,
+        "humedad_suelo": 63
+      },
+      "fecha_hora_lectura": "2025-03-28T08:30:00"
+    },
+    {
+      "id_sensor": 19,
+      "barrio": "Observatorio",
+      "ubicacion": {
+        "latitud": -31.4262,
+        "longitud": -64.1873
+      },
+      "mediciones": {
+        "temperatura": 23.4,
+        "humedad": 57,
+        "presion_atmosferica": 1010.4,
+        "velocidad_viento": 4.8,
+        "direccion_viento": 104,
+        "precipitacion": 3.0,
+        "humedad_suelo": 66
+      },
+      "fecha_hora_lectura": "2025-03-28T08:30:00"
+    },
+    {
+      "id_sensor": 20,
+      "barrio": "Villa Cabrera",
+      "ubicacion": {
+        "latitud": -31.3776,
+        "longitud": -64.2141
+      },
+      "mediciones": {
+        "temperatura": 20.3,
+        "humedad": 60,
+        "presion_atmosferica": 1013.1,
+        "velocidad_viento": 3.8,
+        "direccion_viento": 211,
+        "precipitacion": 3.1,
+        "humedad_suelo": 48
+      },
+      "fecha_hora_lectura": "2025-03-28T08:30:00"
+    }
+  ]
+}
